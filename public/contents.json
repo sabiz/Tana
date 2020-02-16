@@ -1,0 +1,104 @@
+{
+  "Look&Feel": [
+    {
+      "url": "https://coolors.co/",
+      "title": "Coolors",
+      "image": "https://coolors.co/export/png/9f7e69-d2bba0-f2efc7-f7ffe0-ffeee2",
+      "description": "coolors"
+    },
+    {
+      "url": "https://color.adobe.com/ja/explore/?filter=newest",
+      "title": "Color",
+      "image": "",
+      "description": "Create color palettes with the color wheel, hex or image. Browse thousands of color combinations for usage in Photoshop, Illustrator etc."
+    }
+  ],
+  "Develop": [
+    {
+      "url": "https://regex101.com/",
+      "title": "Regex101",
+      "image": "",
+      "description": "Regex101 allows you to create, debug, test and have your expressions explained for PHP, PCRE, Python, Golang and JavaScript. The website also features a community where you can share useful expressions."
+    },
+    {
+      "url": "https://gchq.github.io/CyberChef/",
+      "title": "CyberChef",
+      "image": "",
+      "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+    }
+  ],
+  "Web": [
+    {
+      "url": "https://httpbin.org/",
+      "title": "httpbin.org",
+      "image": "",
+      "description": ""
+    },
+    {
+      "url": "https://gtmetrix.com/",
+      "title": "GTmetrix",
+      "image": "",
+      "description": "GTmetrix is a free tool that analyzes your page&#039;s speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them."
+    },
+    {
+      "url": "https://badssl.com/",
+      "title": "badssl.com",
+      "image": "",
+      "description": ""
+    },
+    {
+      "url": "https://placeholder.com/",
+      "title": "Placeholder.com",
+      "image": "",
+      "description": "What Is Placeholder.com? Placeholder.com generates custom placeholder images on the fly, like these examples:- &nbsp;&nbsp;&nbsp; How To Use Our Placeholders Just specify the image size after our url (https://via.placeholder.com/) and you&#039;ll get a placeholder image."
+    }
+  ],
+  "Draw": [
+    {
+      "url": "https://www.draw.io/",
+      "title": "draw.io",
+      "image": "",
+      "description": "draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams"
+    },
+    {
+      "url": "http://www.iquilezles.org/apps/graphtoy/",
+      "title": "Graphtoy",
+      "image": "",
+      "description": "Repository of productions, tutorials and articles of Inigo Quilez on computer graphics, fractals, demoscene, shaders and more."
+    },
+    {
+      "url": "http://romannurik.github.io/AndroidAssetStudio/",
+      "title": "Android Asset Studio",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "Inspiration": [
+    {
+      "url": "https://www.behance.net/",
+      "title": "Behance",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808/6397ce92102019.Y3JvcCwxMTkyLDkzMywxMDMsMA.jpg",
+      "description": "Showcase and discover creative work on the world's leading online platform for creative industries."
+    }
+  ],
+  "Security": [
+    {
+      "url": "https://www.exploit-db.com/",
+      "title": "Exploit Database",
+      "image": "",
+      "description": "The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more."
+    },
+    {
+      "url": "https://www.guerrillamail.com/",
+      "title": "✉ Guerrilla Mail",
+      "image": "",
+      "description": "Don't want to give them your real email? Use a temporary email. No registration, lasts 60 mins. Protection from Spam"
+    },
+    {
+      "url": "http://15qm.com/",
+      "title": "クイックメール",
+      "image": "",
+      "description": "登録不要で即時発行の無料メールアドレス発行サービス「クイックメール」"
+    }
+  ]
+}
