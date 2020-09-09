@@ -69,6 +69,12 @@
       "title": "Placeholder.com",
       "image": "",
       "description": "What Is Placeholder.com? Placeholder.com generates custom placeholder images on the fly, like these examples:- &nbsp;&nbsp;&nbsp; How To Use Our Placeholders Just specify the image size after our url (https://via.placeholder.com/) and you&#039;ll get a placeholder image."
+    },
+    {
+      "url": "https://urlscan.io/",
+      "title": "urlscan.io",
+      "image": "",
+      "description": "Website scanner for suspicious and malicious URLs"
     }
   ],
   "Draw": [
