@@ -49,6 +49,12 @@
       "title": "Transform | A polyglot web converter.",
       "image": "https://transform.tools/static/transform.png",
       "description": "An online Repl to convert SVG to JSX"
+    },
+    {
+      "url": "https://www.wolframalpha.com/",
+      "title": "Wolfram|Alpha",
+      "image": "https://www.wolframalpha.com/_next/static/images/share_3G6HuGr6.png",
+      "description": "Wolfram|Alphaは，あらゆる職種，あらゆる教育レベルの，できるだけ広い範囲の人々に，専門家レベルの知識と機能をお届けします"
     }
   ],
   "Web": [
