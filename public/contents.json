@@ -23,6 +23,12 @@
       "title": "Palettable",
       "image": "",
       "description": ""
+    },
+    {
+      "url": "https://lab.syncer.jp/Tool/Image-Color-Picker/",
+      "title": "イメージカラーピッカー",
+      "image": "https://lab.syncer.jp/Tool/Image-Color-Picker/opengraph.png",
+      "description": "スマホでの操作に対応した、写真や画像から、カラーコードを抽出するウェブサービスです。サーバーにアップロードする必要がないので、安心して利用できます。"
     }
   ],
   "Develop": [
