@@ -55,6 +55,12 @@
       "title": "Wolfram|Alpha",
       "image": "https://www.wolframalpha.com/_next/static/images/share_3G6HuGr6.png",
       "description": "Wolfram|Alphaは，あらゆる職種，あらゆる教育レベルの，できるだけ広い範囲の人々に，専門家レベルの知識と機能をお届けします"
+    },
+    {
+      "url": "https://unicode-table.com/en/",
+      "title": "Unicode Character Table",
+      "image": "https://uc-table.azureedge.net/i/favicons/favicon.ico",
+      "description": "Unicode web service for character search. Find, copy and paste your favorite characters: 😎 Emoji, ❤ Hearts, 💲 Currencies, → Arrows, ★ Stars and many others 🚩"
     }
   ],
   "Web": [
