@@ -129,6 +129,12 @@
       "title": "urlscan.io",
       "image": "",
       "description": "Website scanner for suspicious and malicious URLs"
+    },
+    {
+      "url": "https://observatory.mozilla.org/",
+      "title": "Mozilla Observatory",
+      "image": "",
+      "description": "The Mozilla Observatory is a project designed to help developers, system administrators, and security professionals configure their sites safely and securely."
     }
   ],
   "Draw": [
