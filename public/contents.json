@@ -17,7 +17,9 @@
       "title": "Color Palettes for Designers and Artists - Color Hunt",
       "image": "https://colorhunt.co/img/color-hunt-og.png",
       "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects."
-    },
+    }
+  ],
+  "Resource": [
     {
       "url": "https://hatchful.shopify.com/ja/",
       "title": "ロゴメーカーとロゴクリエーター - 無料のオンラインロゴジェネレーター",
@@ -135,6 +137,12 @@
       "title": "Mozilla Observatory",
       "image": "",
       "description": "The Mozilla Observatory is a project designed to help developers, system administrators, and security professionals configure their sites safely and securely."
+    },
+    {
+      "url": "https://securityheaders.com/",
+      "title": "Analyse your HTTP response headers",
+      "image": "https://securityheaders.com/images/security-headers.png",
+      "description": "Quickly and easily assess the security of your HTTP response headers"
     }
   ],
   "Draw": [
