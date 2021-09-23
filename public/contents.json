@@ -111,6 +111,12 @@
       "title": "Unicode Character Table",
       "image": "https://uc-table.azureedge.net/i/favicons/favicon.ico",
       "description": "Unicode web service for character search. Find, copy and paste your favorite characters: 😎 Emoji, ❤ Hearts, 💲 Currencies, → Arrows, ★ Stars and many others 🚩"
+    },
+    {
+      "url": "https://devdocs.io/",
+      "title": "DevDocs API Documentation",
+      "image": "https://devdocs.io/images/icon-320.png",
+      "description": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more."
     }
   ],
   "Web": [
