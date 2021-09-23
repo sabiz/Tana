@@ -1,12 +1,6 @@
 {
   "Look&Feel": [
     {
-      "url": "https://coolors.co/",
-      "title": "Coolors",
-      "image": "https://coolors.co/export/png/9f7e69-d2bba0-f2efc7-f7ffe0-ffeee2",
-      "description": "coolors"
-    },
-    {
       "url": "https://color.adobe.com/ja/explore/?filter=newest",
       "title": "Color",
       "image": "",
@@ -14,9 +8,15 @@
     },
     {
       "url": "https://colorhunt.co/",
-      "title": "Color Palettes for Designers and Artists - Color Hunt",
+      "title": "Color Hunt",
       "image": "https://colorhunt.co/img/color-hunt-og.png",
       "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects."
+    },
+    {
+      "url": "https://uigradients.com/",
+      "title": "uiGradients",
+      "image": "http://uigradients.com/static/images/uigradients.jpg",
+      "description": "A handpicked collection of beautiful color gradients for designers and developers"
     }
   ],
   "Resource": [
