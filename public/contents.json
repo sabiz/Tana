@@ -61,6 +61,18 @@
       "title": "Free stock photos - Kaboompics",
       "image": "https://kaboompics.com/cache/d/1/a/8/4/d1a84bd6812c6297a7f0e81e7ddbb7f0033aba39.jpeg",
       "description": "Find the best free stock images. Download all images and use them in your projects."
+    },
+    {
+      "url": "https://placeholder.com/",
+      "title": "Placeholder.com",
+      "image": "",
+      "description": "What Is Placeholder.com? Placeholder.com generates custom placeholder images on the fly, like these examples:- &nbsp;&nbsp;&nbsp; How To Use Our Placeholders Just specify the image size after our url (https://via.placeholder.com/) and you&#039;ll get a placeholder image."
+    },
+    {
+      "url": "https://picsum.photos/",
+      "title": "Lorem Picsum",
+      "image": "https://picsum.photos/250/250",
+      "description": "Lorem Ipsum... but for photos"
     }
   ],
   "Develop": [
@@ -119,12 +131,6 @@
       "title": "badssl.com",
       "image": "",
       "description": ""
-    },
-    {
-      "url": "https://placeholder.com/",
-      "title": "Placeholder.com",
-      "image": "",
-      "description": "What Is Placeholder.com? Placeholder.com generates custom placeholder images on the fly, like these examples:- &nbsp;&nbsp;&nbsp; How To Use Our Placeholders Just specify the image size after our url (https://via.placeholder.com/) and you&#039;ll get a placeholder image."
     },
     {
       "url": "https://urlscan.io/",
