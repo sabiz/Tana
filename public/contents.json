@@ -123,6 +123,12 @@
       "title": "DevDocs API Documentation",
       "image": "https://devdocs.io/images/icon-320.png",
       "description": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more."
+    },
+    {
+      "url": "https://currentmillis.com/",
+      "title": "Current Millis ‐ Milliseconds since Unix Epoch",
+      "image": "http://currentmillis.com/images/date-time.png",
+      "description": "Convert milliseconds to date - UNIX timestamp - UTC time"
     }
   ],
   "Web": [
