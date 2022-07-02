@@ -73,6 +73,18 @@
       "title": "Lorem Picsum",
       "image": "https://picsum.photos/250/250",
       "description": "Lorem Ipsum... but for photos"
+    },
+    {
+      "url": "https://soco-st.com/",
+      "title": "ソコスト",
+      "image": "https://soco-st.com/wp-content/themes/socost/img/common/ogp.png?ver=20210410001",
+      "description": "商用可能なフリーイラスト素材サイト。シンプルなイラストをPNG･SVG･EPS形式でダウンロード。Web・広告・企画書・資料などご自由にお使いください。"
+    },
+    {
+      "url": "https://tyoudoii-illust.com/",
+      "title": "ちょうどいいイラスト",
+      "image": "https://tyoudoii-illust.com/wp-content/uploads/2020/12/twitter_card.png",
+      "description": "大体どんなシーンにもはまる、「ちょうどいい」フリー素材イラストを配布しています。商用利用可、クレジット表記不要。"
     }
   ],
   "Develop": [
