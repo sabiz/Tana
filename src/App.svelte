@@ -16,7 +16,9 @@ import Tana from './Tana.svelte';
 
 <style lang="scss">
 main {
-    background-color: #e6ebe0;
+    background: #d9a7c7;
+    background: -webkit-linear-gradient(to left, #fffcdc, #d9a7c7);
+    background: linear-gradient(to left, #fffcdc, #d9a7c7);
     text-align: center;
     padding: 2.5em;
     margin: 0 auto;
