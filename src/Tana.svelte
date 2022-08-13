@@ -1,4 +1,7 @@
 <script>
+
+import { Collapse } from 'svelma'
+
 let tanaData = null;
 
 fetch('public/contents.json')
@@ -10,12 +13,15 @@ fetch('public/contents.json')
 </script>
 
 {#if tanaData}
-<div class="tile is-ancestor tile-root">
+<div class="tile tile-root">
     {#each Object.keys(tanaData) as category}
-        <div class="tile tile-divider secondary-bg">
+    <Collapse open={false}>
+        <div class="tile tile-divider secondary-bg" slot="trigger">
             {category}
         </div>
-        {#each tanaData[category] as item}
+
+        <div class="tile-content-area">
+            {#each tanaData[category] as item}
             <div class="tile is-parent tile-content">
                 <div class="card">
                     <div class="card-image">
@@ -34,7 +40,10 @@ fetch('public/contents.json')
                 </div>
                 <a href="{item.url}" class="tile-link"> </a>
             </div>
-        {/each}
+            {/each}
+        </div>
+
+    </Collapse>
     {/each}
 </div>
 {/if}
@@ -52,7 +61,11 @@ fetch('public/contents.json')
 }
 .tile-root{
     margin: 0 auto !important;
-    width: 75%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.tile-content-area {
+    display: flex;
     flex-wrap: wrap;
 }
 .tile-content {
@@ -60,7 +73,10 @@ fetch('public/contents.json')
     flex-basis: 25%;
     max-width: 25%;
     margin-top: 1.5em;
-    align-items: flex-start;    
+    align-items: flex-start;
+}
+.card {
+    border-radius: 15px;
 }
 .tile-link {
     position: absolute;
@@ -69,12 +85,16 @@ fetch('public/contents.json')
     width: 100%;
     height:100%;
 }
-
 .tile-divider {
     flex-basis: 100%;
     font-size: 1.5em;
-    font-weight: bold;
+    font-weight: 1.5;
     margin-bottom: 0;
-    background: linear-gradient(transparent 80%,  $secondary 20%);
+    cursor: pointer;
+    background: linear-gradient(transparent 97%,  $secondary 3%);
+    width: 100%;
+}
+.card-image img {
+    border-radius: 15px 15px 0 0;
 }
 </style>

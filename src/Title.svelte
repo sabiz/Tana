@@ -12,5 +12,12 @@
 
 .hilight {
     color: $primary;
+    font-weight: 150;
+}
+.title {
+    color: $text;
+    font-weight: 1;
+    -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
 }
 </style>
