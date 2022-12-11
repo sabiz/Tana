@@ -1,5 +1,5 @@
 {
-  "Look&Feel": [
+  "Color": [
     {
       "url": "https://color.adobe.com/ja/explore/?filter=newest",
       "title": "Color",
@@ -19,60 +19,12 @@
       "description": "A handpicked collection of beautiful color gradients for designers and developers"
     }
   ],
-  "Resource": [
-    {
-      "url": "https://hatchful.shopify.com/ja/",
-      "title": "ロゴメーカーとロゴクリエーター - 無料のオンラインロゴジェネレーター",
-      "image": "",
-      "description": "無料ロゴメーカーツールを使うと、数分でオリジナルのロゴを作成できます。無料のベクター、フォント、アイコンを選択して、独自のロゴをデザインしましょう。ビジネスのロゴをオンラインで作成する、最も簡単な方法です。"
-    },
-    {
-      "url": "https://icons8.com/illustrations",
-      "title": "Free Clip Art Images &amp; Vector Illustrations For Your Website",
-      "image": "https://icons8.com/vue-static/ouch/seo/opengraph.png",
-      "description": "Explore a beautiful library of royalty-free clipart vector images and illustrations in PNG, SVG formats. Free clipart for commercial use."
-    },
-    {
-      "url": "https://blush.design/ja",
-      "title": "Blush: みんなのためのイラスト",
-      "image": "https://blush.design/og-image.png",
-      "description": "Blushを使用すると、ご自分のデザインに無料のイラストを簡単に追加できます。世界中のアーティストが作成した完全にカスタマイズ可能なグラフィックで遊んでみましょう。"
-    },
+  "Image": [
     {
       "url": "https://www.linustock.com/vectors",
       "title": "Linustock",
       "image": "",
       "description": "Web・DTPデザイナーたちの要望からできたシンプルで使いやすい「イラスト一覧 」の無料（フリー）線画イラスト素材"
-    },
-    {
-      "url": "https://unsplash.com/",
-      "title": "Unsplash",
-      "image": "http://images.unsplash.com/photo-1593642532400-2682810df593?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMjA3fDF8MXxhbGx8MXx8fHx8fDJ8fDE2MzA4MTA4MjM&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080",
-      "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos."
-    },
-    {
-      "url": "https://burst.shopify.com/",
-      "title": "Free Stock Photos: High-Res Images for Websites",
-      "image": "https://cdn.shopifycloud.com/stock_photos/assets/global/burst-share-df978141accd818331ea8b59ac61c9f52dd7a1d26c96db143e3a2593298b00da.jpg",
-      "description": "Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required."
-    },
-    {
-      "url": "https://kaboompics.com/",
-      "title": "Free stock photos - Kaboompics",
-      "image": "https://kaboompics.com/cache/d/1/a/8/4/d1a84bd6812c6297a7f0e81e7ddbb7f0033aba39.jpeg",
-      "description": "Find the best free stock images. Download all images and use them in your projects."
-    },
-    {
-      "url": "https://placeholder.com/",
-      "title": "Placeholder.com",
-      "image": "",
-      "description": "What Is Placeholder.com? Placeholder.com generates custom placeholder images on the fly, like these examples:- &nbsp;&nbsp;&nbsp; How To Use Our Placeholders Just specify the image size after our url (https://via.placeholder.com/) and you&#039;ll get a placeholder image."
-    },
-    {
-      "url": "https://picsum.photos/",
-      "title": "Lorem Picsum",
-      "image": "https://picsum.photos/250/250",
-      "description": "Lorem Ipsum... but for photos"
     },
     {
       "url": "https://soco-st.com/",
@@ -91,12 +43,48 @@
       "title": "ベクターシェルフ",
       "image": "http://vectorshelf.com/wp-content/uploads/2020/07/ogpimage.jpg",
       "description": "無料・商用利用OKのイラスト素材サイト"
+    }
+  ],
+  "Photo": [
+    {
+      "url": "https://unsplash.com/",
+      "title": "Unsplash",
+      "image": "http://images.unsplash.com/photo-1593642532400-2682810df593?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMjA3fDF8MXxhbGx8MXx8fHx8fDJ8fDE2MzA4MTA4MjM&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080",
+      "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos."
+    },    
+    {
+      "url": "https://burst.shopify.com/",
+      "title": "Free Stock Photos: High-Res Images for Websites",
+      "image": "https://cdn.shopifycloud.com/stock_photos/assets/global/burst-share-df978141accd818331ea8b59ac61c9f52dd7a1d26c96db143e3a2593298b00da.jpg",
+      "description": "Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required."
     },
+    {
+      "url": "https://kaboompics.com/",
+      "title": "Free stock photos - Kaboompics",
+      "image": "https://kaboompics.com/cache/d/1/a/8/4/d1a84bd6812c6297a7f0e81e7ddbb7f0033aba39.jpeg",
+      "description": "Find the best free stock images. Download all images and use them in your projects."
+    }
+  ],
+  "Slide": [
     {
       "url": "https://slidesgo.com/",
       "title": "Slidesgo",
       "image": "",
       "description": "Discover the best Google Slides themes and PowerPoint templates you can use in your presentations - 100% Free for any use."
+    }
+  ],
+  "lorem ipsum": [
+    {
+      "url": "https://placeholder.com/",
+      "title": "Placeholder.com",
+      "image": "",
+      "description": "What Is Placeholder.com? Placeholder.com generates custom placeholder images on the fly, like these examples:- &nbsp;&nbsp;&nbsp; How To Use Our Placeholders Just specify the image size after our url (https://via.placeholder.com/) and you&#039;ll get a placeholder image."
+    },
+    {
+      "url": "https://picsum.photos/",
+      "title": "Lorem Picsum",
+      "image": "https://picsum.photos/250/250",
+      "description": "Lorem Ipsum... but for photos"
     }
   ],
   "Develop": [
