@@ -17,6 +17,12 @@
       "title": "uiGradients",
       "image": "http://uigradients.com/static/images/uigradients.jpg",
       "description": "A handpicked collection of beautiful color gradients for designers and developers"
+    },
+    {
+      "url": "https://cssgradient.io/gradient-backgrounds/",
+      "title": "Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place",
+      "image": "https://cssgradient.io/images/gradient-backgrounds-29c8b0fa.jpg",
+      "description": "Discover the best gradient backgrounds from  a curated collection of the ultimate list of gradient sites. With 1000+ gradients, it's easy to find the 👌 color!"
     }
   ],
   "Image": [
@@ -43,6 +49,12 @@
       "title": "ベクターシェルフ",
       "image": "http://vectorshelf.com/wp-content/uploads/2020/07/ogpimage.jpg",
       "description": "無料・商用利用OKのイラスト素材サイト"
+    },
+    {
+      "url": "https://storyset.com/",
+      "title": "Storyset",
+      "image": "",
+      "description": "Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor ✅"
     }
   ],
   "Photo": [
@@ -137,6 +149,12 @@
       "title": "Current Millis ‐ Milliseconds since Unix Epoch",
       "image": "http://currentmillis.com/images/date-time.png",
       "description": "Convert milliseconds to date - UNIX timestamp - UTC time"
+    },
+    {
+      "url": "https://readme.so/ja",
+      "title": "readme.so",
+      "image": "https://readme.so/readme.png",
+      "description": "Use readme.so&#x27;s markdown editor and templates to easily create a ReadMe for your projects"
     }
   ],
   "Web Develop": [
