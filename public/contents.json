@@ -155,6 +155,12 @@
       "title": "readme.so",
       "image": "https://readme.so/readme.png",
       "description": "Use readme.so&#x27;s markdown editor and templates to easily create a ReadMe for your projects"
+    },
+    {
+      "url": "https://ipinfo.io/",
+      "title": "The trusted source for IP address data, leading IP data provider - IPinfo.io",
+      "image": "https://ipinfo.io/static/images/og_logo.png",
+      "description": "Get accurate and reliable IP address information with IPinfo. Trusted by over 400,000 users, developers and businesses, we handle more than 40 billion API requests per month. Sign up for free account today."
     }
   ],
   "Web Develop": [
