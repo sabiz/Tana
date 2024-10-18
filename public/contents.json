@@ -177,6 +177,18 @@
       "title": "CSS Layout Generator",
       "image": "https://layout.bradwoods.io/ogImage.png",
       "description": "A CSS Grid generator &amp; CSS Flexbox generator. A tool for generating UI layout component code."
+    },
+    {
+      "url": "https://freefrontend.com/",
+      "title": "FreeFrontend",
+      "image": "https://freefrontend.com/apple-touch-icon.png",
+      "description": "Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles."
+    },
+    {
+      "url": "https://1stwebdesigner.com/",
+      "title": "1stWebDesigner",
+      "image": "https://1stwebdesigner.com/wp-content/uploads/2020/01/1stwebdesigner-logo-2020.png",
+      "description": "We are 1stWebDesigner and we’re on a mission to help you build a better web. 1WD was created by web design professionals, for web design professionals."
     }
   ],
   "http": [
