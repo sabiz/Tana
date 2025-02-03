@@ -195,6 +195,12 @@
       "title": "Keyframes.app",
       "image": "https://keyframes.app/img/meta/twitter.jpg",
       "description": ""
+    },
+    {
+      "url": "https://perf.link/",
+      "title": "Perflink",
+      "image": "",
+      "description": "JavaScript performance benchmarks you can share via URL."
     }
   ],
   "http": [
