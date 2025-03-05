@@ -1,12 +1,4 @@
 {
-  "Coding": [
-    {
-      "url": "https://the-algorithms.com/",
-      "title": "The Algorithms",
-      "image": "https://the-algorithms.com/og-image.png",
-      "description": "Open Source resource for learning Data Structures &amp; Algorithms and their implementation in any Programming Language"
-    }
-  ],
   "Develop": [
     {
       "url": "https://regex101.com/",
