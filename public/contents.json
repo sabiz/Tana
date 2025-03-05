@@ -1,28 +1,4 @@
 {
-  "Web Scan": [
-    {
-      "url": "https://gtmetrix.com/",
-      "title": "GTmetrix",
-      "image": "",
-      "description": "GTmetrix is a free tool that analyzes your page&#039;s speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them."
-    },
-    {
-      "url": "https://urlscan.io/",
-      "title": "urlscan.io",
-      "image": "",
-      "description": "Website scanner for suspicious and malicious URLs"
-    },    {
-      "url": "https://observatory.mozilla.org/",
-      "title": "Mozilla Observatory",
-      "image": "",
-      "description": "The Mozilla Observatory is a project designed to help developers, system administrators, and security professionals configure their sites safely and securely."
-    },    {
-      "url": "https://securityheaders.com/",
-      "title": "Analyse your HTTP response headers",
-      "image": "https://securityheaders.com/images/security-headers.png",
-      "description": "Quickly and easily assess the security of your HTTP response headers"
-    }
-  ],
   "Draw": [
     {
       "url": "https://www.draw.io/",
