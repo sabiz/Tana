@@ -1,30 +1,4 @@
 {
-  "Color": [
-    {
-      "url": "https://color.adobe.com/ja/explore/?filter=newest",
-      "title": "Color",
-      "image": "",
-      "description": "Create color palettes with the color wheel, hex or image. Browse thousands of color combinations for usage in Photoshop, Illustrator etc."
-    },
-    {
-      "url": "https://colorhunt.co/",
-      "title": "Color Hunt",
-      "image": "https://colorhunt.co/img/color-hunt-og.png",
-      "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects."
-    },
-    {
-      "url": "https://uigradients.com/",
-      "title": "uiGradients",
-      "image": "http://uigradients.com/static/images/uigradients.jpg",
-      "description": "A handpicked collection of beautiful color gradients for designers and developers"
-    },
-    {
-      "url": "https://cssgradient.io/gradient-backgrounds/",
-      "title": "Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place",
-      "image": "https://cssgradient.io/images/gradient-backgrounds-29c8b0fa.jpg",
-      "description": "Discover the best gradient backgrounds from  a curated collection of the ultimate list of gradient sites. With 1000+ gradients, it's easy to find the 👌 color!"
-    }
-  ],
   "Image": [
     {
       "url": "https://www.linustock.com/vectors",
