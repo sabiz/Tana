@@ -1,46 +1,10 @@
 {
-  "Security": [
+  "Example": [
     {
-      "url": "https://www.exploit-db.com/",
-      "title": "Exploit Database",
+      "url": "https://example.com/",
+      "title": "example",
       "image": "",
-      "description": "The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more."
-    },
-    {
-      "url": "https://www.guerrillamail.com/",
-      "title": "✉ Guerrilla Mail",
-      "image": "",
-      "description": "Don't want to give them your real email? Use a temporary email. No registration, lasts 60 mins. Protection from Spam"
-    },
-    {
-      "url": "http://15qm.com/",
-      "title": "クイックメール",
-      "image": "",
-      "description": "登録不要で即時発行の無料メールアドレス発行サービス「クイックメール」"
-    },
-    {
-      "url": "https://www.hybrid-analysis.com/",
-      "title": "Free Automated Malware Analysis Service",
-      "image": "",
-      "description": "Submit malware for free analysis with Falcon Sandbox and Hybrid Analysis technology. Hybrid Analysis develops and licenses analysis tools to fight malware."
-    },
-    {
-      "url": "https://www.joesandbox.com/",
-      "title": "Automated Malware Analysis",
-      "image": "",
-      "description": "Joe Sandbox Cloud Basic Interface"
-    },
-    {
-      "url": "https://app.any.run/",
-      "title": "Interactive Online Malware Analysis Sandbox",
-      "image": "https://any.run/img/anyrun-logo.png",
-      "description": "Cloud-based malware analysis service. Take your information security to the next level. Analyze suspicious and malicious activities using our innovative tools."
-    },
-    {
-      "url": "https://securl.nu/",
-      "title": "SecURL",
-      "image": "https://securl.nu/img/social.png",
-      "description": "見知らぬURLをクリックする前にSecURLでサイトチェック！。リンクスパム・ウイルス感染や詐欺サイト、短縮URLの展開・解析、縦長サイトのスクリーンショット(キャプチャ)もフルサイズで行えます。"
+      "description": "example"
     }
   ]
 }
