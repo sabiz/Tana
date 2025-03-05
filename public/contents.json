@@ -1,24 +1,4 @@
 {
-  "Photo": [
-    {
-      "url": "https://unsplash.com/",
-      "title": "Unsplash",
-      "image": "http://images.unsplash.com/photo-1593642532400-2682810df593?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMjA3fDF8MXxhbGx8MXx8fHx8fDJ8fDE2MzA4MTA4MjM&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080",
-      "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos."
-    },    
-    {
-      "url": "https://burst.shopify.com/",
-      "title": "Free Stock Photos: High-Res Images for Websites",
-      "image": "https://cdn.shopifycloud.com/stock_photos/assets/global/burst-share-df978141accd818331ea8b59ac61c9f52dd7a1d26c96db143e3a2593298b00da.jpg",
-      "description": "Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required."
-    },
-    {
-      "url": "https://kaboompics.com/",
-      "title": "Free stock photos - Kaboompics",
-      "image": "https://kaboompics.com/cache/d/1/a/8/4/d1a84bd6812c6297a7f0e81e7ddbb7f0033aba39.jpeg",
-      "description": "Find the best free stock images. Download all images and use them in your projects."
-    }
-  ],
   "Slide": [
     {
       "url": "https://slidesgo.com/",
