@@ -1,18 +1,4 @@
 {
-  "Emoji": [
-    {
-      "url": "https://unicode-table.com/en/",
-      "title": "Unicode Character Table",
-      "image": "https://uc-table.azureedge.net/i/favicons/favicon.ico",
-      "description": "Unicode web service for character search. Find, copy and paste your favorite characters: 😎 Emoji, ❤ Hearts, 💲 Currencies, → Arrows, ★ Stars and many others 🚩"
-    },
-    {
-      "url": "https://www.words2emoji.com/",
-      "title": "Words2Emoji - Translate Words To Emojis",
-      "image": "",
-      "description": "Looking for a way to add some fun to your texts? Just type in a word and get a suggested emoji that goes with it."
-    }
-  ],
   "Coding": [
     {
       "url": "https://the-algorithms.com/",
