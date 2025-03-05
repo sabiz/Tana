@@ -1,18 +1,4 @@
 {
- "lorem ipsum": [
-    {
-      "url": "https://placeholder.com/",
-      "title": "Placeholder.com",
-      "image": "",
-      "description": "What Is Placeholder.com? Placeholder.com generates custom placeholder images on the fly, like these examples:- &nbsp;&nbsp;&nbsp; How To Use Our Placeholders Just specify the image size after our url (https://via.placeholder.com/) and you&#039;ll get a placeholder image."
-    },
-    {
-      "url": "https://picsum.photos/",
-      "title": "Lorem Picsum",
-      "image": "https://picsum.photos/250/250",
-      "description": "Lorem Ipsum... but for photos"
-    }
-  ],
   "Emoji": [
     {
       "url": "https://unicode-table.com/en/",
