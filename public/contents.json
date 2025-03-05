@@ -1,30 +1,4 @@
 {
-  "Draw": [
-    {
-      "url": "https://www.draw.io/",
-      "title": "draw.io",
-      "image": "",
-      "description": "draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams"
-    },
-    {
-      "url": "http://www.iquilezles.org/apps/graphtoy/",
-      "title": "Graphtoy",
-      "image": "",
-      "description": "Repository of productions, tutorials and articles of Inigo Quilez on computer graphics, fractals, demoscene, shaders and more."
-    },
-    {
-      "url": "http://romannurik.github.io/AndroidAssetStudio/",
-      "title": "Android Asset Studio",
-      "image": "",
-      "description": ""
-    },
-    {
-      "url": "https://pixlr.com/",
-      "title": "Pixlr.com",
-      "image": "https://static-cdn.pixlr.com/images/best-photo-editor-cover.jpg",
-      "description": "Discover free and premium online photo editor! Effects, filters, overlays, simple to expert tools. Open almost any image format like PSD (Photoshop), PXD, Jpeg, PNG (Transparent), webP, SVG and many more. You'll find a Pixlr image editor just for you!"
-    }
-  ],
   "Inspiration": [
     {
       "url": "https://www.behance.net/",
